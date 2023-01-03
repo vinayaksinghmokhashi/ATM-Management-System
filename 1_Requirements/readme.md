@@ -6,7 +6,6 @@ has become completely computerized new facilities such as credit cards,
 debit cards & ATM has been introduced. ATM is automatic teller
 machine which is basically used to withdraw money from an account.
 
-download.jfif
 
 ### 1.2 Objectives
 The objective of this project is similar to ATM software installed
@@ -17,8 +16,8 @@ delivered the transaction just made is updated in the database where the
 customer’s information is stored.
 
 ### 1.3 Functionalities Achived
-#### User Login
-#### Deposit
+#### 1. User Login
+#### 2. Deposit
 #### Withdraw
 #### Balance Enquiry
 #### Balance Transfer
