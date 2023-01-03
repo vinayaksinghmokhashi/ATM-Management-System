@@ -21,12 +21,12 @@ delivered the transaction just made is updated in the database where the
 customer’s information is stored.
 
 ### 1.3 Functionalities Achived
-#### 1. User Login
-#### 2. Deposit
-#### Withdraw
-#### Balance Enquiry
-#### Balance Transfer
-#### Change PIN
-#### Change Password
-#### Block ATM
-#### Mini Statement
+####          1. User Login
+####          2. Deposit
+####          3. Withdraw
+####          4.Balance Enquiry
+####          5.Balance Transfer
+####          6.Change PIN
+####          7. Change Password
+####          8.Block ATM
+####          9. Mini Statement
