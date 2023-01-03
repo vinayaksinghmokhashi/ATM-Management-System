@@ -7,6 +7,11 @@ debit cards & ATM has been introduced. ATM is automatic teller
 machine which is basically used to withdraw money from an account.
 
 
+
+![image](https://user-images.githubusercontent.com/98843684/210353167-a3875fd9-c136-41d8-8973-4b3bb90cc685.png)
+
+
+
 ### 1.2 Objectives
 The objective of this project is similar to ATM software installed
 in ATM center. It should first validate the Customer ID and password at the System. Then the
